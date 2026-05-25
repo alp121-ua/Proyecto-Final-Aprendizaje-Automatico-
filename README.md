@@ -141,7 +141,7 @@ Para instalar las dependencias:
 ```bash
 pip install -r requirements.txt
 
-
+```
 # Estructura del proyecto
 
 ```bash
@@ -152,3 +152,5 @@ pip install -r requirements.txt
 ├── requirements.txt        # Dependencias
 ├── README.md
 └── informe/                # Memoria en LaTeX
+
+```
