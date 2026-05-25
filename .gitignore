@@ -1,3 +1,5 @@
 Base.csv
 /.venv/
 base-limpia.csv
+base-tratada.csv
+catboost_info/
