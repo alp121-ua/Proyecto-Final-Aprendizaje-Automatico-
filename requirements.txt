@@ -1,5 +1,16 @@
-pandas
 numpy
+pandas
 matplotlib
 seaborn
+plotly
 scikit-learn
+xgboost
+catboost
+lightgbm
+imbalanced-learn
+optuna
+shap
+dice-ml
+ipython
+scipy
+joblib
